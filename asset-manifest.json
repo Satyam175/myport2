@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/myport2/static/css/main.fd8e1b7c.chunk.css",
+    "main.js": "/myport2/static/js/main.39edf40e.chunk.js",
+    "main.js.map": "/myport2/static/js/main.39edf40e.chunk.js.map",
+    "runtime-main.js": "/myport2/static/js/runtime-main.4af826cb.js",
+    "runtime-main.js.map": "/myport2/static/js/runtime-main.4af826cb.js.map",
+    "static/js/2.d98db984.chunk.js": "/myport2/static/js/2.d98db984.chunk.js",
+    "static/js/2.d98db984.chunk.js.map": "/myport2/static/js/2.d98db984.chunk.js.map",
+    "static/css/3.25727338.chunk.css": "/myport2/static/css/3.25727338.chunk.css",
+    "static/js/3.c19083fb.chunk.js": "/myport2/static/js/3.c19083fb.chunk.js",
+    "static/js/3.c19083fb.chunk.js.map": "/myport2/static/js/3.c19083fb.chunk.js.map",
+    "static/css/4.a8329f31.chunk.css": "/myport2/static/css/4.a8329f31.chunk.css",
+    "static/js/4.db1fe7c1.chunk.js": "/myport2/static/js/4.db1fe7c1.chunk.js",
+    "static/js/4.db1fe7c1.chunk.js.map": "/myport2/static/js/4.db1fe7c1.chunk.js.map",
+    "index.html": "/myport2/index.html",
+    "precache-manifest.b71d0d8836132baf9a3caff0f234f807.js": "/myport2/precache-manifest.b71d0d8836132baf9a3caff0f234f807.js",
+    "service-worker.js": "/myport2/service-worker.js",
+    "static/css/3.25727338.chunk.css.map": "/myport2/static/css/3.25727338.chunk.css.map",
+    "static/css/4.a8329f31.chunk.css.map": "/myport2/static/css/4.a8329f31.chunk.css.map",
+    "static/css/main.fd8e1b7c.chunk.css.map": "/myport2/static/css/main.fd8e1b7c.chunk.css.map",
+    "static/js/2.d98db984.chunk.js.LICENSE.txt": "/myport2/static/js/2.d98db984.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/myport2/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/baba.jpg": "/myport2/static/media/baba.17e0329e.jpg",
+    "static/media/contactMailDark.svg": "/myport2/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/myport2/static/media/developerActivity.59389695.svg",
+    "static/media/jecLogo.png": "/myport2/static/media/jecLogo.d4cd31ab.png",
+    "static/media/manOnTable.svg": "/myport2/static/media/manOnTable.52be3144.svg",
+    "static/media/nextuLogo.webp": "/myport2/static/media/nextuLogo.829ad0a1.webp",
+    "static/media/saayaHealthLogo.webp": "/myport2/static/media/saayaHealthLogo.25018d29.webp",
+    "static/media/skill.svg": "/myport2/static/media/skill.34409398.svg",
+    "static/media/TalkCard.scss": "/myport2/static/media/talksCardBack.13780cdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4af826cb.js",
+    "static/js/2.d98db984.chunk.js",
+    "static/css/main.fd8e1b7c.chunk.css",
+    "static/js/main.39edf40e.chunk.js"
+  ]
+}
